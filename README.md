@@ -1,4 +1,4 @@
-# [Try Chat Yield](https://t.me/chatyieldbot)
+# <a href="https://t.me/chatyieldbot" target="_blank">Try Chat Yield 👉 TG @chatyieldbot</a>
 
 Chat Yield is an AI agent that simplifies discovering and entering liquidity pools on the Solana blockchain, all through a simple conversation on Telegram.
 
