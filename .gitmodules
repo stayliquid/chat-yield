@@ -1,3 +1,6 @@
 [submodule "solana_telegram_agent"]
 	path = solana_telegram_agent
 	url = git@github.com:stayliquid/solana_telegram_agent.git
+[submodule "solana_agent"]
+        path = solana_agent
+        url = git@github.com:stayliquid/solana_agent.git
